@@ -1,0 +1,3 @@
+[build]
+  command = "deno run --allow-net app.ts"
+  publish = "."
